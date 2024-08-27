@@ -1,4 +1,4 @@
-## Hi, welcome to my page! 👋
+Hi, welcome to my page! 👋
 - My name is Adetunji Omole.
 - I am a recent M.S. in Data Science graduate.
 - I have professional experience in all the stages of data lifecycle, in the banking and financial services industry.
