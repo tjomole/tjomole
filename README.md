@@ -5,4 +5,4 @@ Hi, welcome to my page! 👋
 - I am interested in AI and Machine Learning, and the intersection of digitization and regulation.
 - I would be happy to collaborate on any project within the scope of data science, fintech, legaltech, and business transformation.
   
-Contact: aomole@charlotte.edu | omole@alumni.usc.edu | omole_tj@outlook.com 
+Contact: aomole@charlotte.edu | omole@alumni.usc.edu 
